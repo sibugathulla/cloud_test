@@ -2,8 +2,25 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Sibugathulla"
     }
+    ,
+    {
+      "id": 2,
+      "title": "Jasmath"
+    }
+    ,
+    {
+      "id": 3,
+      "title": "Sarfaraz Ahmed"
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Kunjimmu"
+    }
+    
+    
   ],
   "profile": {
     "name": "typicode"
