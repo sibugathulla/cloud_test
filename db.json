@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sibugathulla"
+    }
+    ,
+    {
+      "id": 2,
+      "title": "Jasmath"
+    }
+    ,
+    {
+      "id": 3,
+      "title": "Sarfaraz Ahmed"
+    }
+   
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
